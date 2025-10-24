@@ -23,12 +23,12 @@ i. Export coloured PDF file by diff operation for file changes.<br>
 
 Compared Result Types
 ===========================
-a. "+": this file or folder does not exist in target folder.
-b. "-": this file or folder does not exist in source folder.
-c. "O": can't do an overwrite operation, the file was conflicted with target file or folder.
-d. "M": this file was modified comparing with the target file.
-e. "R": this file should be renamed, it's conflicted with target file that has different content.
-f. "D": duplicated file in source or target folder.
+a. "+": this file or folder does not exist in target folder.<br>
+b. "-": this file or folder does not exist in source folder.<br>
+c. "O": can't do an overwrite operation, the file was conflicted with target file or folder.<br>
+d. "M": this file was modified comparing with the target file.<br>
+e. "R": this file should be renamed, it's conflicted with target file that has different content.<br>
+f. "D": duplicated file in source or target folder.<br><br>
 
 
 Sample Scenario
