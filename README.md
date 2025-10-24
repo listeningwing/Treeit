@@ -4,7 +4,7 @@ Compare and merge big folders.
 High performance duplicated file detector.<br>
 High performance directory compare and merge.<br><br>
 
-Find duplicates in big folders with lightning speed, visual diff tool on mac, compare files and folders to see their differences and then side-by-side edit the modifications, and then merging the differences with selected flexible strategy on different files and folders.<br><br>
+Find duplicates in big folders with lightning speed, visual diff tool on Mac, compare files and folders to see their differences and then side-by-side edit the modifications, and then merging the differences with selected flexible strategy on different files and folders.<br><br>
 
 Essential tool for every software engineer. Version control system CAN'T DO AS YOUR EXPECTED! so this app developed. A small utility provides an intuitive and concise user interface to combine the content of two big folders. It accomplish the task in two steps with DIFFERENT algorithm that used by common version control systems, at the first step, the app scan the source and target folder to find out the difference, removed, new added, modified, conflicted file and folders, and at the same time, optionally check all duplicated items in both folder. At the second step, the app merge the compared result with user selected strategy. This practical tool can efficiently merge large amounts of media files such as photos, office documents, pdf files, audio and videos for normal users. Advanced users also can write scripts that cooperate with version control systems, e.g, Git and Mercurial, etc. In addition, of course, user also can directly use the app to generate coloured changes between two plain text file and print to pdf file or paper.
 
