@@ -31,7 +31,7 @@ e. "R": this file should be renamed, it's conflicted with target file that has d
 f. "D": duplicated file in source or target folder.<br><br>
 
 
-Sample Scenario
+Sample Scenarios
 ===========================
 a. There's a big folder in the external hard disk and a big folder in MacBook that contains large amounts of user's media files, user want to check out difference in both folder and merge the folder in MacBook into the external hard disk, but requires to apply a flexible strategy on different file and folder, and an intuitive interface to check each conflicted file and folder in all subfolders one by one before merging.
 
